@@ -110,3 +110,7 @@ header .logo {
 	color: black;
 	background: white;
 }
+.top img {
+	margin-top: 30px;
+	margin-left: 130px;
+}
