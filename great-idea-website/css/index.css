@@ -118,3 +118,13 @@ header .logo {
 	margin-bottom: 62px;
 	margin-top: 38px;
 }
+.textblocks {
+	width: 290px;
+	height: 140px;
+	text-align: justify;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	box-sizing: border-box;
+	display: inline-block;
+	padding: 5px;
+}
