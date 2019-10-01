@@ -85,3 +85,8 @@ header nav a:visited {
 		color: gray;
 		text-decoration: none;
 }
+header .logo {
+	margin-left: 100px;
+	margin-right: 30px;
+	margin-top: 20px;
+}
