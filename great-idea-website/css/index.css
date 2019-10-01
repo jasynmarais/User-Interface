@@ -131,3 +131,9 @@ header .logo {
 .size1 {
 	width: 430px;
 }
+.line {
+	border-bottom: solid 1px black;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width: 876px;
+}
