@@ -74,3 +74,14 @@ header nav {
 	margin-top: 35px;
 	text-decoration: none;
 }
+header nav a {
+	margin: 0 20px;
+}
+header nav a:link {
+		color: gray;
+	 	text-decoration: none;
+}
+header nav a:visited {
+		color: gray;
+		text-decoration: none;
+}
