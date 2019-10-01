@@ -90,3 +90,23 @@ header .logo {
 	margin-right: 30px;
 	margin-top: 20px;
 }
+.leftpane {
+	display: inline-block;
+	margin-left: 54px;
+	height: 100px;
+  	line-height: 82px;
+  	white-space: nowrap;
+}
+.leftpane h1 {
+	font-size: 75px;
+	text-align: center;
+}
+.leftpane button {
+	border: 1px solid black;
+	font-size: 20px;
+	margin: 0 25px;
+	margin-left: 95px;
+	text-align: center;
+	color: black;
+	background: white;
+}
