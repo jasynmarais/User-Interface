@@ -69,3 +69,8 @@ h1, h2, h3, h4, h5 {
 	width: 900px;
 	margin: auto;
 }
+header nav {
+	display: inline-block;
+	margin-top: 35px;
+	text-decoration: none;
+}
